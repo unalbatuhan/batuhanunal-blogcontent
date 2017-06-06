@@ -1,2 +1,2 @@
 # batuhanunal-blogcontent
-unalbatuhan.azurewebsites.net Blog Yazıları
+Blog'da okuduğunuz yazılardaki yazım hatalarını veya teknik olarak yanlışları buradan güncelleyip bana pull request gönderebilirsiniz. 
